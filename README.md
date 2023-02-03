@@ -1,4 +1,4 @@
-# Real-Time-Object-Counting-on-Jetson-Nano
+# Real-Time-Object-Counting-by-Jetson-Nano
 
 - Object Counting Crossing Area
 - Base Layout Bootstrap
